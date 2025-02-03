@@ -1,0 +1,6 @@
+streamlit
+openai
+databutton
+langchain
+pypdf
+faiss-cpu
